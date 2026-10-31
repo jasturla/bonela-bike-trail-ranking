@@ -1,0 +1,1 @@
+"""Historical activity storage placeholder."""
