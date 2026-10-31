@@ -1,0 +1,1 @@
+"""Ranking generation placeholder."""
